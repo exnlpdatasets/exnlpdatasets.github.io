@@ -9,9 +9,9 @@ This website collects ExNLP datasets. It started with the paper [Teach Me to Exp
 
 Datasets are grouped by explanation type: 
 
-* [Highlights](https://exnlpdatasets.github.io/exnlp-datasets/highlights/)
-* [Free-text Explanations](https://exnlpdatasets.github.io/exnlp-datasets/freetext/)
-* [Structured Explanations](https://exnlpdatasets.github.io/exnlp-datasets/structured/)
+* [Highlights](https://exnlpdatasets.github.io/highlights/)
+* [Free-text Explanations](https://exnlpdatasets.github.io/freetext/)
+* [Structured Explanations](https://exnlpdatasets.github.io/structured/)
 
 ## Contributions
 
