@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Datasets with Free-Text Explanations
+title: Free-Text Explanations
 ---
 
 ## Textual tasks 
