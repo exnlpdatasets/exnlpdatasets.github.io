@@ -1,0 +1,13 @@
+# Site navigation links
+main:
+- title: Home
+  url: /
+
+- title: Highlights
+  url: /highlights/
+
+- title: Free-Text Explanations
+  url: /freetext/
+
+- title: Structured Explanations
+  url: /structured/
