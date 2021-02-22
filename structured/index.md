@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structured Explanations
+title: Datasets with Structured Explanations
 ---
 
 | Dataset                                                    | Task                     | Explanation Type | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Highlights
+title: Datasets with Highlights
 ---
 
 | Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
