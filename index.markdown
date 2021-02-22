@@ -15,16 +15,16 @@ Datasets are grouped by explanation type:
 
 ## Contributions
 
-We welcome and encourage contributions to this site. If you would like us to add a missing or new dataset, please open a PR to [**this repository**](https://github.com/exnlpdatasets/exnlp-datasets) and include the following information: 
+We welcome and encourage contributions to this site. If you would like us to add a missing or new dataset, please open a PR to [**this repository**](https://github.com/exnlpdatasets/exnlpdatasets.github.io) and include the following information: 
 
 - Explanation type (highlights, free-text, or structured)
 - Dataset name 
-- Link to the associated paper 
+- Link to the associated publication/preprint 
 - Associated task 
 - Granurality restriction (for highlights)
 - Collection method 
 - Number of instances 
-- Number of explanatiosn per instance 
+- Number of explanations per instance 
 - Total number of annotators 
 - Language
 
