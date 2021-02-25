@@ -5,7 +5,9 @@
 layout: home
 ---
 
-This website collects datasets for Explainable NLP (ExNLP). It started with the paper ✨ [Teach Me to Explain: A Review of Datasets for Explainable NLP](https://arxiv.org/abs/2102.12060) ✨, and we hope it will evolve as new datasets are collected.
+This website collects datasets for Explainable NLP (ExNLP).
+
+It started with the paper ✨ [Teach Me to Explain: A Review of Datasets for Explainable NLP](https://arxiv.org/abs/2102.12060) ✨, and we hope it will evolve as new datasets are collected.
 
 Datasets are grouped by explanation type: 
 
