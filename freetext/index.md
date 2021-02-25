@@ -5,7 +5,9 @@ title: Free-Text Explanations
 
 > **Free-text explanations** are free-form textual justifications that are not constrained to the instance inputs. 
 
-## Textual tasks 
+## English
+
+### Textual tasks 
 
 | Dataset                                                    | Task                | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
@@ -24,7 +26,7 @@ title: Free-Text Explanations
 [Wang et al. (2020)](https://arxiv.org/pdf/1911.01352.pdf) | sentiment classification | crowd + authors | 85 | 1 | n/a | 
 [e-delta-NLI](https://arxiv.org/abs/2012.08012) | defeasible natural language inference | automatic | 92,298 | ~8 | n/a | 
 
-## Multimodal tasks 
+### Multimodal tasks 
 
 | Dataset                                                    | Task                | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
