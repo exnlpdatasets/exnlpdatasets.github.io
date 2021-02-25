@@ -12,7 +12,7 @@ It started with the paper ✨ [Teach Me to Explain: A Review of Datasets for Exp
 Datasets are grouped by explanation type: 
 
 * [Highlights](https://exnlpdatasets.github.io/highlights/)
-* [Free-TText Explanations](https://exnlpdatasets.github.io/freetext/)
+* [Free-Text Explanations](https://exnlpdatasets.github.io/freetext/)
 * [Structured Explanations](https://exnlpdatasets.github.io/structured/)
 
 ## Contributions
