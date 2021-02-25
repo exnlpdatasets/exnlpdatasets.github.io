@@ -3,7 +3,7 @@ layout: post
 title: Highlights
 ---
 
-> ...**highlights** are subsets of the input elements (either words, subwords, or full sentences) that are compact and sufficient to explain a prediction. [(Wiegreffe and Marasović, 2021)](https://arxiv.org/abs/2102.12060)
+> ...**highlights** are subsets of the input elements (either words, subwords, or full sentences) that are compact and sufficient to explain a prediction. 
 
 | Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|

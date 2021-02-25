@@ -3,6 +3,8 @@ layout: post
 title: Structured Explanations
 ---
 
+> ...**structured explanations**...describe explanations that are not entirely free-form, e.g., there are constraints placed on the explanation-creating process, such as the use of specific inference rules.
+
 | Dataset                                                    | Task                     | Explanation Type | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
 [WorldTree v1](https://www.aclweb.org/anthology/L18-1433/) | science exam QA | explanation graphs | authors | 1,680 | 1 | 4 | 

@@ -3,6 +3,8 @@ layout: post
 title: Free-Text Explanations
 ---
 
+> **Free-text explanations** are free-form textual justifications that are not constrained to the instance inputs. 
+
 ## Textual tasks 
 
 | Dataset                                                    | Task                | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
