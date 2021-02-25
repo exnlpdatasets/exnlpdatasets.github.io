@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This website collects datasets for Explainable NLP (ExNLP). It started with the paper [Teach Me to Explain: A Review of Datasets for Explainable NLP](https://tbd), and we hope it will evolve as new datasets are collected.
+This website collects datasets for Explainable NLP (ExNLP). It started with the paper [Teach Me to Explain: A Review of Datasets for Explainable NLP](https://arxiv.org/abs/2102.12060), and we hope it will evolve as new datasets are collected.
 
 Datasets are grouped by explanation type: 
 
@@ -39,9 +39,9 @@ If the paper does not mention information please use `n/a`.
 @article{wiegreffe-marasovic-2021-review,
   title={Teach Me to Explain: A Review of Datasets for Explainable NLP},
   author={Sarah Wiegreffe and Ana Marasovi\'{c}},
-  note={{arXiv:TBD}},
+  note={{arXiv:2102.12060}},
   year={2021},
-  url={TBD}
+  url={https://arxiv.org/abs/2102.12060}
 }
 ```
 
