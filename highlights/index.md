@@ -3,6 +3,8 @@ layout: post
 title: Highlights
 ---
 
+> ...**highlights** are subsets of the input elements (either words, subwords, or full sentences) that are compact and sufficient to explain a prediction. [Wiegreffe and Marasović (2021)](https://arxiv.org/abs/2102.12060)
+
 | Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
 | [MovieReviews](https://www.aclweb.org/anthology/N07-1033/) | sentiment classification | none                    | author            | 1800                | 1                                   | 1                          |
