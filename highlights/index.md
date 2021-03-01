@@ -12,6 +12,7 @@ title: Highlights
 | [MovieReviews](https://www.aclweb.org/anthology/N07-1033/) | sentiment classification | none                    | author            | 1800                | 1                                   | 1                          |
 | [MovieReviews<sub>c</sub>](https://www.aclweb.org/anthology/2020.acl-main.408/) | sentiment classification | none | crowd | 200 | 2 (1 given) | 2 | 
 | [SST](https://www.aclweb.org/anthology/D13-1170/) | sentiment classifcation | none | crowd | 11,855 | 3 (1 given) | n/a |
+| [WikiQA](https://www.aclweb.org/anthology/D15-1237/) | open-domain QA | 	sentence | crowd + authors | 1,473 |
 | [WikiAttack](https://www.aclweb.org/anthology/D18-1386/) | detecting personal attacks | none | students | 1089 | 4 (1 given) | 40 |
 | [e-SNLI](https://papers.nips.cc/paper/2018/hash/4c7a167bb329bd92580a99ce422d6fa6-Abstract.html) | natural language inference | none | crowd | ~569K | 1 or 3 | 6325 |
 | [MultiRC](https://www.aclweb.org/anthology/N18-1023/) |  reading comprehension QA | sentences | crowd | 5,825 | 1 | n/a | 
@@ -19,6 +20,7 @@ title: Highlights
 | [HotpotQA](https://www.aclweb.org/anthology/D18-1259/) | reading comprehension QA | sentences | crowd | 112,779 | n/a | n/a |
 | [Hanselowski et al. (2019)](https://www.aclweb.org/anthology/K19-1046/) | verifying claims from text | sentences | crowd |  6,422 | varies | n/a |
 | [NaturalQuestions](https://www.mitpressjournals.org/doi/full/10.1162/tacl_a_00276) | reading comprehension QA | 1 paragraph | crowd | n/a | 1 or 5 | 50 | 
+| [CoQA](https://www.aclweb.org/anthology/Q19-1016/) | conversational QA | none | crowd | ~127K | 1 or 3 | n/a |
 | [CoS-E v1.0](https://www.aclweb.org/anthology/P19-1487/) | commonsense QA | none | crowd | 8,560 | 1 | n/a | 
 | [CoS-E v1.1](https://www.aclweb.org/anthology/P19-1487/) | comonsense QA | none | crowd | 10,962 | 1 | n/a |
 | [BoolQ<sub>c</sub>](https://www.aclweb.org/anthology/2020.acl-main.408/) |   reading comprehension QA | none | crowd | 199 | 3 (1 given) | 3 |

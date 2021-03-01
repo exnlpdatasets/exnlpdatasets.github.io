@@ -19,6 +19,7 @@ title: Free-Text Explanations
 [LIAR-PLUS](https://www.aclweb.org/anthology/W18-5513/) | verifying claims from text | automatic | 12, 836 | 1 | n/a | 
 [CoS-E v1.0](https://www.aclweb.org/anthology/P19-1487/) | commonsense QA | crowd | 8,560 | 1 | n/a |
 [CoS-E v1.1](https://www.aclweb.org/anthology/P19-1487/) | commonsense QA | crowd | 10,962 | 1 | n/a | 
+[Sen-Making](https://www.aclweb.org/anthology/P19-1393/) | commonsense validation | students + authors | 2,021 | 1 | 7 |
 [WinoWhy](https://www.aclweb.org/anthology/2020.acl-main.508/) | pronoun coreference resolution | crowd | 273 | 5 | n/a | 
 [SBIC](https://www.aclweb.org/anthology/2020.acl-main.486/) | social bias inference | crowd | 48,923 | 1-3 | n/a | 
 [PubHealth](https://www.aclweb.org/anthology/2020.emnlp-main.623/) | verifying claims from text | automatic 11,832 | 1 | n/a | 
