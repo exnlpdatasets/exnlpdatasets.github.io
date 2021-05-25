@@ -33,4 +33,6 @@ title: Highlights
 
 ## French
 
+| Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
+|------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
 | [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |          
