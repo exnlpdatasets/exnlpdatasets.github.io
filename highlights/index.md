@@ -29,3 +29,7 @@ title: Highlights
 | [EvidenceInference v2.0](https://www.aclweb.org/anthology/2020.bionlp-1.13/) | evidence inference | none | experts | 2,503 | 1 | 6 | 
 | [SciFact](https://www.aclweb.org/anthology/2020.emnlp-main.609/) | verifying claims from text | 1-3 sentences | experts | 995 | 1-3 | 13 | 
 | [Kutlu et al. (2020)](https://www.ischool.utexas.edu/~ml/papers/kutlu_jair20.pdf) | webpage relevance ranking | 2-3 sentences | crowd | 700 | 15 | n/a |
+| [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
+
+## French
+| [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
