@@ -32,4 +32,5 @@ title: Highlights
 | [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
 
 ## French
-| [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
+
+| [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |          
