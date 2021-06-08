@@ -30,7 +30,7 @@ title: Highlights
 | [SciFact](https://www.aclweb.org/anthology/2020.emnlp-main.609/) | verifying claims from text | 1-3 sentences | experts | 995 | 1-3 | 13 | 
 | [Kutlu et al. (2020)](https://www.ischool.utexas.edu/~ml/papers/kutlu_jair20.pdf) | webpage relevance ranking | 2-3 sentences | crowd | 700 | 15 | n/a |
 | [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
-| [ECtHR][https://www.aclweb.org/anthology/2021.naacl-main.22/] | alleged legal violation prediction | paragraphs | auto + expert | 1  | ~11K |               
+| [ECtHR](https://www.aclweb.org/anthology/2021.naacl-main.22/) | alleged legal violation prediction | paragraphs | auto + expert | 1  | ~11K |               
 
 ## French
 
