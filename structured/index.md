@@ -21,3 +21,4 @@ title: Structured Explanations
 [Ye et al. (2020)](https://www.aclweb.org/anthology/2020.findings-emnlp.145/) | NaturalQuestions QA | semi-structured text | crowd + authors | 109 | 1 | n/a |
 [R<sup>4</sup>C](https://www.aclweb.org/anthology/2020.acl-main.602/) | reading comprehenesion QA | chains of facts | crowd | 4,588 | 3 | 45 | 
 [StrategyQA](https://arxiv.org/pdf/2101.02235.pdf) | implicit reasoning QA | reasoning steps with highlights | crowd | 2,780 | 3 | 54 |  
+[TriggerNER](https://arxiv.org/abs/2004.07493) | Named Entity Recognition | group of tokens with highlights | crowd | ~7K | 2 | 3 |
