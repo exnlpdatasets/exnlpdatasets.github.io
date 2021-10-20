@@ -32,7 +32,7 @@ title: Highlights
 | [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |   
 | [ECtHR](https://www.aclweb.org/anthology/2021.naacl-main.22/) | alleged legal violation prediction | paragraphs | auto + expert | ~11K | 1 | n/a |               
 | [Hummingbird](https://arxiv.org/abs/2109.02738) | Style classification | words | crowd | 500 | 1 | 622 | 3 | 622 |  
-
+| [HateXplain](https://arxiv.org/abs/2012.10289) | hate-speech classification | phrases | crowd | 20148 | 3 | 253 |                
 
 ## French
 
