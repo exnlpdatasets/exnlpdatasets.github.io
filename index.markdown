@@ -37,10 +37,10 @@ If the paper does not mention information please use `n/a`.
 ## Citation
 
 ```
-@article{wiegreffe-marasovic-2021-review,
+@inproceedings{wiegreffe-marasovic-2021-review,
   title={Teach Me to Explain: A Review of Datasets for Explainable NLP},
   author={Sarah Wiegreffe and Ana Marasovi\'{c}},
-  note={arXiv:2102.12060},
+  booktitle={Proceedings of NeurIPS},
   year={2021},
   url={https://arxiv.org/abs/2102.12060}
 }
