@@ -39,3 +39,9 @@ title: Highlights
 | Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
 |------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
 | [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level En-Fr MT | none | experts | ~14K | 1 | 20 |          
+
+## Multiple Languages
+
+| Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators | Languages |
+|------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
+| [X-QE](https://aclanthology.org/2021.eval4nlp-1.17/) | Quality Estimation of Machine Translation | words | experts | 4590 | 1 | 14 | Estonian-English (Et-En), Romanian-English (Ro-En), German-Chinese (De-Zh), Russian-German (Ru-De) |
