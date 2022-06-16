@@ -46,6 +46,7 @@ title: Free-Text Explanations
 
 ## Multiple Languages
 
-| Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators | Languages |
-|------------------------------------------------------------|--------------------------|-------------------------|-------------------|
+
+| Dataset                                                    | Task                | Collection Method | # Instances | # Explanations per Instance | Total # Annotators |
+|------------------------------------------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
 | [E-KAR](https://aclanthology.org/2022.findings-acl.311/) | analogical reasoning | crowd | 1,655 (in Chinese); 1,251 (in English) | 5 | N/A | 
