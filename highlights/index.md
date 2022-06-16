@@ -33,12 +33,8 @@ title: Highlights
 | [Hummingbird](https://arxiv.org/abs/2109.02738) | Style classification | words | crowd | 500 | 1 | 622 (3 annotators/sentence)| 
 | [HateXplain](https://arxiv.org/abs/2012.10289) | hate-speech classification | phrases | crowd | 20148 | 3 | 253 |                
 | [ContractNLI](https://aclanthology.org/2021.findings-emnlp.164/) | natural language inference | sentence or a list item within a sentence | expert + crowd | 607 | 1 | 3}
-| [Indian Legal Documents Corpus (ILDC)](https://aclanthology.org/2021.acl-long.313/) | predicting the outcome of a legal case | sentences | experts | 56 | 1 | 5 |
-         
+| [Indian Legal Documents Corpus (ILDC)](https://aclanthology.org/2021.acl-long.313/) | predicting the outcome of a legal case | sentence | experts | 56 | 1 | 5 |
 
-## Multiple Languages
+## Chinese 
 
-| Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators | Languages |
-|------------------------------------------------------------|--------------------------|-------------------------|-------------------|---------------------|-------------------------------------|----------------------------|
-| [X-QE](https://aclanthology.org/2021.eval4nlp-1.17/) | Quality Estimation of Machine Translation | words | experts | 4590 | 1 | 14 | Estonian-English (Et-En), Romanian-English (Ro-En), German-Chinese (De-Zh), Russian-German (Ru-De) |
-| [Supporting Context for Ambiguous Translations (SCAT)](https://arxiv.org/abs/2105.06977) | Document-level MT | none | experts | ~14K | 1 | 20 | English-French (En-Fr) |
+| [GCRC](https://aclanthology.org/2021.findings-acl.113/) | reading comprehension | senetence | students | 1725 questions | 1 (and rarely more) |  12 |

@@ -44,3 +44,8 @@ title: Free-Text Explanations
 [VLEP](https://www.aclweb.org/anthology/2020.emnlp-main.706/) | future event prediction | automatic + crowd | 28,726 | 1 | n/a | 
 [EMU](https://arxiv.org/abs/2012.04726) | reasoning about manipulated images | crowd | 48K | n/a | n/a |
 
+## Multiple Languages
+
+| Dataset                                                    | Task                     | Granurality Restriction | Collection Method | # Instances | # Explanations per Instance | Total # Annotators | Languages |
+|------------------------------------------------------------|--------------------------|-------------------------|-------------------|
+| [E-KAR](https://aclanthology.org/2022.findings-acl.311/) | analogical reasoning | crowd | 1,655 (in Chinese); 1,251 (in English) | 5 | N/A | 
