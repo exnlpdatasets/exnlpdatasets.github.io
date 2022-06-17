@@ -24,4 +24,4 @@ title: Structured Explanations
 [TriggerNER](https://arxiv.org/abs/2004.07493) | Named Entity Recognition | group of tokens with highlights | crowd | ~7K | 2 | 3 |
 [COPA-SSE (Semi-Structured Explanations for COPA)](https://github.com/a-brassard/copa-sse) | Balanced COPA (commonsense QA, causal reasoning) | semi-structured\* | crowd | 1,500 | 4-9 (9747 total) |  N/A |
 
-\* ConceptNet-like triples with free-form head and tail concepts. I'd maybe class this as structured but it's not very rigid and can also be used as free text.
+\* ConceptNet-like triples with free-form head and tail concepts. The author class this as structured but it's not very rigid and can also be used as free text.
