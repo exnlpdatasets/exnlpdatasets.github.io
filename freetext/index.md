@@ -28,9 +28,9 @@ title: Free-Text Explanations
 [Wang et al. (2020)](https://arxiv.org/pdf/1911.01352.pdf) | relation extraction | crowd + authors | 373 | 1 | n/a |
 [Wang et al. (2020)](https://arxiv.org/pdf/1911.01352.pdf) | sentiment classification | crowd + authors | 85 | 1 | n/a | 
 [e-delta-NLI](https://arxiv.org/abs/2012.08012) | defeasible natural language inference | automatic | 92,298 | ~8 | n/a | 
-[COPA-SSE (Semi-Structured Explanations for COPA)](https://github.com/a-brassard/copa-sse) | Balanced COPA (commonsense QA, causal reasoning) | semi-structured\* | crowd | 1,500 | 4-9 (9747 total) |  N/A |
+[COPA-SSE (Semi-Structured Explanations for COPA)](https://github.com/a-brassard/copa-sse)\* | Balanced COPA (commonsense QA, causal reasoning)| crowd | 1,500 | 4-9 (9747 total) |  N/A |
 
-\* ConceptNet-like triples with free-form head and tail concepts. The author class this as structured but it's not very rigid and can also be used as free text.
+\* ConceptNet-like triples with free-form head and tail concepts. The author classed this as structured but says it's not very rigid and can also be used as free text.
 
 ### Multimodal tasks 
 

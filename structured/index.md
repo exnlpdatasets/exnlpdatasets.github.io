@@ -22,6 +22,6 @@ title: Structured Explanations
 [R<sup>4</sup>C](https://www.aclweb.org/anthology/2020.acl-main.602/) | reading comprehenesion QA | chains of facts | crowd | 4,588 | 3 | 45 | 
 [StrategyQA](https://arxiv.org/pdf/2101.02235.pdf) | implicit reasoning QA | reasoning steps with highlights | crowd | 2,780 | 3 | 54 |  
 [TriggerNER](https://arxiv.org/abs/2004.07493) | Named Entity Recognition | group of tokens with highlights | crowd | ~7K | 2 | 3 |
-[COPA-SSE (Semi-Structured Explanations for COPA)](https://github.com/a-brassard/copa-sse) | Balanced COPA (commonsense QA, causal reasoning) | semi-structured\* | crowd | 1,500 | 4-9 (9747 total) |  N/A |
+[COPA-SSE (Semi-Structured Explanations for COPA)](https://github.com/a-brassard/copa-sse)\* | Balanced COPA (commonsense QA, causal reasoning) | crowd | 1,500 | 4-9 (9747 total) |  N/A |
 
-\* ConceptNet-like triples with free-form head and tail concepts. The author class this as structured but it's not very rigid and can also be used as free text.
+\* ConceptNet-like triples with free-form head and tail concepts. The author classed this as structured but says it's not very rigid and can also be used as free text.
